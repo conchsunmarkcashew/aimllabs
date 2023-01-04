@@ -1,0 +1,14 @@
+sl.no,Outlook,Temperature,Humidity,Windy,PlayTennis
+1,sunny,Hot,High,Weak,No
+2,sunny,Hot,High,Strong,No
+3,sunny,Hot,High,Strong,No
+4,overcast,Hot,High,Weak,Yes
+5,rain,Mild,High,Weak,Yes
+6,rain,Cool,Normal,Weak,Yes
+7,rain,Cool,Normal,Strong,No
+8,overcast,Cool,Normal,Strong,No
+9,sunny,Mild,High,Weak,Yes
+10,sunny,Cool,Normal,Weak,Yes
+11,rain,Mild,Normal,Weak,Yes
+12,sunny,Mild,Normal,Strong,Yes
+13,overcast,Mild,High,Strong,No
